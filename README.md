@@ -1,4 +1,4 @@
-# Relatório do projeto:
+#                                                 Relatório do projeto:
 
 O projeto foi desenvolvido no Google Colab, utilizando Python para realizar o tratamento, limpeza, padronização e consolidação de dados provenientes de duas planilhas de vendas com estruturas diferentes: System Report e Q-Log.
 
@@ -10,7 +10,7 @@ Na etapa de limpeza dos dados, foram removidos registros que não faziam parte d
 Com os dados tratados, foi realizada a consolidação das duas fontes em um único conjunto de dados, além da criação de uma coluna de Valor Total, calculada pela multiplicação da quantidade pelo preço unitário.
 Por fim, foi desenvolvido um resumo analítico utilizando agregação por cliente e produto, apresentando a quantidade total adquirida e o valor total gasto por cada cliente em cada produto. O resultado foi exportado para um arquivo Excel contendo duas abas: uma com a base consolidada e outra com o resumo das compras.
 
-##Tecnologias Utilizas:
+## Tecnologias Utilizas:
 
 - Google Colab (ambiente de desenvolvimento)
 - Python
